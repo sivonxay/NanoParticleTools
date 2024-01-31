@@ -16,7 +16,7 @@
 NanoParticleTools tools is a python module that facilitates monte carlo simulation of Upconverting Nanoparticles (UCNP) using [RNMC](https://github.com/BlauGroup/RNMC).
 
 # Using NanoParticleTools
-NanoParticleTools provides functionality to generate inputs for running Monte Carlo Simulations on nanoparticles and analyzing outputs. Monte Carlo simulation uses NMPC within the [RNMC](https://github.com/BlauGroup/RNMC) package. While NanoParticleTools provides wrapper functions to run the C++ based simulator, [RNMC](https://github.com/BlauGroup/RNMC) must be installed to perform simulations.
+NanoParticleTools provides functionality to generate inputs for running Monte Carlo Simulations on nanoparticles and analyzing outputs. Monte Carlo simulation uses NMPC within the [RNMC](https://github.com/BlauGroup/RNMC) package. While NanoParticleTools provides wrapper functions to run the C++ based simulator, [RNMC](https://github.com/BlauGroup/RNMC) must be installed to perform simulations.asdfasdf
 
 ## Installation
 To install NanoParticleTools to a python environment, clone the repository and use one of the following commands from within the NanoParticleTools directory
